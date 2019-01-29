@@ -1,2 +1,2 @@
 this is a new file on the non_tracking branch.
-new edit on branch_2b_deleted.
+it seems merge conflict has to be in the same line.new edit on branch_2b_deleted.
