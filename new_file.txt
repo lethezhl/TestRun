@@ -2,3 +2,5 @@ new edit on master branch.
 
 this is a new file on the non_tracking branch.
 edit to create merge conflict on new_file.txt with different edit on the same line.new edit on branch_2b_deleted.
+it seems merge conflict has to be in the same line.new edit on branch_2b_deleted.
+First try to resolve the conflicts by combining both edits, and a comment on resolution as well.
